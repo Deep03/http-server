@@ -1,7 +1,6 @@
 # Raw TCP Client-Server in Python
 
-This project demonstrates a basic TCP client-server communication using Python's built-in `socket` module — without any external libraries or frameworks.
-
+This project demonstrates a basic TCP client-server communication using Python's built-in `socket` module — without any external libraries or frameworks. Nothing Fancy, but a start!
 ## Files
 
 - `server.py`: Starts a TCP server that listens on `127.0.0.1:8080`, accepts a client connection, and prints the data received.
